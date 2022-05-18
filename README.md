@@ -1,0 +1,2 @@
+# CodingBattery
+Different code challenges
